@@ -1,1 +1,3 @@
 whoami
+ls
+grep
